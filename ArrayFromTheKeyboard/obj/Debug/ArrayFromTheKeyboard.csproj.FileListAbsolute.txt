@@ -1,0 +1,8 @@
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArrayFromTheKeyboard\bin\Debug\ArrayFromTheKeyboard.exe.config
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArrayFromTheKeyboard\bin\Debug\ArrayFromTheKeyboard.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArrayFromTheKeyboard\bin\Debug\ArrayFromTheKeyboard.pdb
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArrayFromTheKeyboard\obj\Debug\ArrayFromTheKeyboard.csproj.AssemblyReference.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArrayFromTheKeyboard\obj\Debug\ArrayFromTheKeyboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArrayFromTheKeyboard\obj\Debug\ArrayFromTheKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArrayFromTheKeyboard\obj\Debug\ArrayFromTheKeyboard.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArrayFromTheKeyboard\obj\Debug\ArrayFromTheKeyboard.pdb

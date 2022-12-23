@@ -1,0 +1,8 @@
+C:\Users\shmak\OneDrive\Рабочий стол\C#\RecursiveArrayOutput\bin\Debug\RecursiveArrayOutput.exe.config
+C:\Users\shmak\OneDrive\Рабочий стол\C#\RecursiveArrayOutput\bin\Debug\RecursiveArrayOutput.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\RecursiveArrayOutput\bin\Debug\RecursiveArrayOutput.pdb
+C:\Users\shmak\OneDrive\Рабочий стол\C#\RecursiveArrayOutput\obj\Debug\RecursiveArray.csproj.AssemblyReference.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\RecursiveArrayOutput\obj\Debug\RecursiveArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\RecursiveArrayOutput\obj\Debug\RecursiveArray.csproj.CoreCompileInputs.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\RecursiveArrayOutput\obj\Debug\RecursiveArrayOutput.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\RecursiveArrayOutput\obj\Debug\RecursiveArrayOutput.pdb

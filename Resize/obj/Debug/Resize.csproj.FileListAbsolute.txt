@@ -1,0 +1,8 @@
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Resize\bin\Debug\Resize.exe.config
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Resize\bin\Debug\Resize.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Resize\bin\Debug\Resize.pdb
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Resize\obj\Debug\Resize.csproj.AssemblyReference.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Resize\obj\Debug\Resize.csproj.SuggestedBindingRedirects.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Resize\obj\Debug\Resize.csproj.CoreCompileInputs.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Resize\obj\Debug\Resize.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Resize\obj\Debug\Resize.pdb

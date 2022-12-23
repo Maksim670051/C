@@ -1,0 +1,8 @@
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArithmeticMean\bin\Debug\ArithmeticMean.exe.config
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArithmeticMean\bin\Debug\ArithmeticMean.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArithmeticMean\bin\Debug\ArithmeticMean.pdb
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArithmeticMean\obj\Debug\ArithmeticMean.csproj.AssemblyReference.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArithmeticMean\obj\Debug\ArithmeticMean.csproj.SuggestedBindingRedirects.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArithmeticMean\obj\Debug\ArithmeticMean.csproj.CoreCompileInputs.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArithmeticMean\obj\Debug\ArithmeticMean.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ArithmeticMean\obj\Debug\ArithmeticMean.pdb

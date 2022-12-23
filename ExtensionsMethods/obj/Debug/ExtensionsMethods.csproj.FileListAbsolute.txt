@@ -1,0 +1,8 @@
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ExtensionsMethods\bin\Debug\ExtensionsMethods.exe.config
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ExtensionsMethods\bin\Debug\ExtensionsMethods.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ExtensionsMethods\bin\Debug\ExtensionsMethods.pdb
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ExtensionsMethods\obj\Debug\ExtensionsMethods.csproj.AssemblyReference.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ExtensionsMethods\obj\Debug\ExtensionsMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ExtensionsMethods\obj\Debug\ExtensionsMethods.csproj.CoreCompileInputs.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ExtensionsMethods\obj\Debug\ExtensionsMethods.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\ExtensionsMethods\obj\Debug\ExtensionsMethods.pdb

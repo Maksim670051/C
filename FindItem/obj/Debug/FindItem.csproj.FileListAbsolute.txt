@@ -1,0 +1,8 @@
+C:\Users\shmak\OneDrive\Рабочий стол\C#\FindItem\bin\Debug\FindItem.exe.config
+C:\Users\shmak\OneDrive\Рабочий стол\C#\FindItem\bin\Debug\FindItem.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\FindItem\bin\Debug\FindItem.pdb
+C:\Users\shmak\OneDrive\Рабочий стол\C#\FindItem\obj\Debug\FindItem.csproj.AssemblyReference.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\FindItem\obj\Debug\FindItem.csproj.SuggestedBindingRedirects.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\FindItem\obj\Debug\FindItem.csproj.CoreCompileInputs.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\FindItem\obj\Debug\FindItem.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\FindItem\obj\Debug\FindItem.pdb

@@ -1,0 +1,8 @@
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Triangle\bin\Debug\Triangle.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Triangle\bin\Debug\Triangle.pdb
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Triangle\obj\Debug\Triangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Triangle\obj\Debug\Triangle.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\Triangle\obj\Debug\Triangle.pdb

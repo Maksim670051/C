@@ -1,0 +1,8 @@
+C:\Users\shmak\OneDrive\Рабочий стол\C#\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+C:\Users\shmak\OneDrive\Рабочий стол\C#\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+C:\Users\shmak\OneDrive\Рабочий стол\C#\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

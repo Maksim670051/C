@@ -1,0 +1,8 @@
+C:\Users\shmak\OneDrive\Рабочий стол\C#\DeleteElementToArray\bin\Debug\DeleteElementToArray.exe.config
+C:\Users\shmak\OneDrive\Рабочий стол\C#\DeleteElementToArray\bin\Debug\DeleteElementToArray.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\DeleteElementToArray\bin\Debug\DeleteElementToArray.pdb
+C:\Users\shmak\OneDrive\Рабочий стол\C#\DeleteElementToArray\obj\Debug\DeleteElementToArray.csproj.AssemblyReference.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\DeleteElementToArray\obj\Debug\DeleteElementToArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\DeleteElementToArray\obj\Debug\DeleteElementToArray.csproj.CoreCompileInputs.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\DeleteElementToArray\obj\Debug\DeleteElementToArray.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\DeleteElementToArray\obj\Debug\DeleteElementToArray.pdb

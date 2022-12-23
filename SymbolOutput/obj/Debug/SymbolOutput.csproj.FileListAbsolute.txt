@@ -1,0 +1,8 @@
+C:\Users\shmak\OneDrive\Рабочий стол\C#\SymbolOutput\bin\Debug\SymbolOutput.exe.config
+C:\Users\shmak\OneDrive\Рабочий стол\C#\SymbolOutput\bin\Debug\SymbolOutput.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\SymbolOutput\bin\Debug\SymbolOutput.pdb
+C:\Users\shmak\OneDrive\Рабочий стол\C#\SymbolOutput\obj\Debug\SymbolOutput.csproj.AssemblyReference.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\SymbolOutput\obj\Debug\SymbolOutput.csproj.SuggestedBindingRedirects.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\SymbolOutput\obj\Debug\SymbolOutput.csproj.CoreCompileInputs.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\SymbolOutput\obj\Debug\SymbolOutput.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\SymbolOutput\obj\Debug\SymbolOutput.pdb

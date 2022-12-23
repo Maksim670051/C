@@ -1,0 +1,8 @@
+C:\Users\shmak\OneDrive\Рабочий стол\C#\OddEvenNumbers\bin\Debug\OddEvenNumbers.exe.config
+C:\Users\shmak\OneDrive\Рабочий стол\C#\OddEvenNumbers\bin\Debug\OddEvenNumbers.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\OddEvenNumbers\bin\Debug\OddEvenNumbers.pdb
+C:\Users\shmak\OneDrive\Рабочий стол\C#\OddEvenNumbers\obj\Debug\OddEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\OddEvenNumbers\obj\Debug\OddEvenNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\OddEvenNumbers\obj\Debug\OddEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\shmak\OneDrive\Рабочий стол\C#\OddEvenNumbers\obj\Debug\OddEvenNumbers.exe
+C:\Users\shmak\OneDrive\Рабочий стол\C#\OddEvenNumbers\obj\Debug\OddEvenNumbers.pdb
